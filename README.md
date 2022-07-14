@@ -1,5 +1,5 @@
 # Registration-System
-Authentication using HTML,CSS ,JAVASCRIPT,BOOTSTRAP,PHP AND MYSQL
+Authentication using php,mysql.
 # Config.php
 Contains connection to mysql database, using phpmyadmin. You can change values
 # Session
